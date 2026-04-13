@@ -1,0 +1,5 @@
+{
+  "name": "2AA Clean Net",
+  "description": "Services professionnels de nettoyage, jardinage et désinfection à Niamey, Niger. Votre partenaire pour un environnement propre et sain.",
+  "requestFramePermissions": ["geolocation"]
+}
